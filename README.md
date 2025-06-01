@@ -21,14 +21,6 @@
 
 ---
 
-### 💬 Ask me about:
-- Designing and implementing LDAP/FreeIPA authentication in Django projects.
-- Secure user role management and group policy enforcement.
-- Efficient Docker container orchestration for backend services.
-- Advanced C#/.NET patterns for desktop apps (WPF).
-
----
-
 ## 🚀 Featured Projects
 
 | Project          | Description                                                                                   | Link                                |
